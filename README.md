@@ -11,10 +11,6 @@ Repositório para demonstrar cálculos numéricos utilizando Python. O projeto e
 
 ## 🗂 Tabela de Conteúdo  
 - [Instalação](#instalação)  
-- [Uso](#uso)  
-- [Exemplos](#exemplos)  
-- [Contribuição](#contribuição)  
-- [Licença](#licença)  
 
 ---
 
